@@ -16,7 +16,6 @@ class ViewController: UIViewController {
         
         //first person code
     }
-        // second person code 
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
